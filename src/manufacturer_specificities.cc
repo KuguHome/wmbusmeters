@@ -26,7 +26,8 @@ std::set<int> diehl_manufacturers = {
     MANUFACTURER_EWT,
     MANUFACTURER_HYD,
     MANUFACTURER_SAP,
-    MANUFACTURER_SPL
+    MANUFACTURER_SPL,
+    MANUFACTURER_TCH
 };
 
 // Default keys for Izar/PRIOS and Sharky meters
